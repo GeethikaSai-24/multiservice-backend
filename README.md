@@ -64,6 +64,4 @@ Related frontend repository:
 - JWT authentication is configured through Django REST Framework.
 - The `payments` app exists as a foundation for future payment support.
 
-## Resume Summary
 
-A modular Django REST backend for a multi-service booking platform, implementing authentication, provider discovery, booking logic, reviews, and appointment availability rules.
